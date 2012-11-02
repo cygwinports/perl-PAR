@@ -2,7 +2,7 @@ CPAN_AUTHOR=rschupp
 inherit perl
 
 NAME="perl-PAR"
-VERSION=1.006
+VERSION=1.007
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl Archive (PAR) format module"
